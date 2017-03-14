@@ -1,0 +1,79 @@
+body{
+	background-color: lightgrey;
+	font-family: cursive;
+}
+
+.myContainer{
+	background-color: white;
+	margin-left: 200px;
+	margin-right: 200px;
+	/*padding-bottom: 200px;*/
+}
+
+.navbar{
+	display: block;
+	background-color: black;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.navbar a{
+	color: silver;
+	text-decoration: none;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.nav{
+	float: right;
+}
+
+.nav a:hover{
+	color: white;
+}
+
+.nav a:active{
+	color: white;
+}
+
+.myJumbotron{
+	background-image: url("../images/download.jpg");
+	color: snow;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-top: 70px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 50px;
+}
+
+.content
+{
+	color: grey;
+
+	font-size: large;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-bottom: 200px;
+}
+
+footer{
+	font-size: small;
+	background-color: black;
+	color: silver;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+img{
+	width: 120px;
+	height: 150px;
+	display: inline;
+	border: 5px dotted;
+}
+
